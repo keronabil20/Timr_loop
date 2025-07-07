@@ -128,7 +128,3 @@ See the [LICENSE](LICENSE) file for details.
 
 ⭐️ Feel free to star the repo if you find it useful or fun!
 
-```
-
-Let me know if you'd like to include a gameplay screenshot or demo GIF section!
-```
